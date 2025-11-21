@@ -7,7 +7,7 @@ def hello_from_dareen();
     return "Hello from Dareen!" #Edited by Dareen
 
 def hello_from_noor();
-    return "Hello from Noor!"
+    return "Hello from Noor!" #Edited by Noor
 
 def add_numbers (a, b);
     return a + b
