@@ -1,5 +1,5 @@
 # InClassActivityGithub
-# From Noor and Dareen, for Python class.
+# From Noor Al-Turaihi and Dareen Qasha, for Python class.
 
 # Simple collaboration file for our lab
 
